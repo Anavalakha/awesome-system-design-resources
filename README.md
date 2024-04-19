@@ -25,7 +25,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Top 15 Tradeoffs](https://newsletter.ashishps.com/p/system-design-top-15-trade-offs)
-- 
+  
 
 ## 🛠️ System Design Building Blocks
 - [Vertical vs Horizontal Scaling](https://newsletter.ashishps.com/p/system-design-vertical-vs-horizontal-scaling)
